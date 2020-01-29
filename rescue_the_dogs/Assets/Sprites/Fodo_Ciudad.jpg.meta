@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 30736f59cbe50a045bd1c203a72a96a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6517931666825243063
+    second: Fodo_Ciudad_0
+  - first:
+      213: -6983362837102655787
+    second: Fodo_Ciudad_1
+  - first:
+      213: 7285031805093247505
+    second: Fodo_Ciudad_2
+  - first:
+      213: 1046059064503840992
+    second: Fodo_Ciudad_3
+  - first:
+      213: -6810883413677552977
+    second: Fodo_Ciudad_4
+  - first:
+      213: 2235317649000036110
+    second: Fodo_Ciudad_5
+  - first:
+      213: 7466997989667487512
+    second: Fodo_Ciudad_6
+  - first:
+      213: 1691458400142428128
+    second: Fodo_Ciudad_7
+  - first:
+      213: 2216327022597727958
+    second: Fodo_Ciudad_8
+  - first:
+      213: -1214811703357976280
+    second: Fodo_Ciudad_9
+  - first:
+      213: -8789017898943820284
+    second: Fodo_Ciudad_10
+  - first:
+      213: -4974471759237156287
+    second: Fodo_Ciudad_11
+  - first:
+      213: 8563022151692094513
+    second: Fodo_Ciudad_12
+  - first:
+      213: -1405728542561929900
+    second: Fodo_Ciudad_13
+  - first:
+      213: 4801942716087624139
+    second: Fodo_Ciudad_14
+  - first:
+      213: 4377913362200614489
+    second: Fodo_Ciudad_15
+  - first:
+      213: -3197301223670309461
+    second: Fodo_Ciudad_16
+  - first:
+      213: -6690197811415667717
+    second: Fodo_Ciudad_17
+  - first:
+      213: 3422899877059341387
+    second: Fodo_Ciudad_18
+  - first:
+      213: -5678686171465246681
+    second: Fodo_Ciudad_19
+  - first:
+      213: -1678045801280522728
+    second: Fodo_Ciudad_20
+  - first:
+      213: -2550538070821552015
+    second: Fodo_Ciudad_21
+  - first:
+      213: 5341267564841437042
+    second: Fodo_Ciudad_22
+  - first:
+      213: 7762146052781718006
+    second: Fodo_Ciudad_23
+  - first:
+      213: -5076776771168877246
+    second: Fodo_Ciudad_24
+  - first:
+      213: 8297803487441274039
+    second: Fodo_Ciudad_25
+  - first:
+      213: 7285017228465244937
+    second: Fodo_Ciudad_26
+  - first:
+      213: -2920733974964023702
+    second: Fodo_Ciudad_27
+  - first:
+      213: -801039706253259097
+    second: Fodo_Ciudad_28
+  - first:
+      213: 6142412911594748051
+    second: Fodo_Ciudad_29
+  - first:
+      213: 8566408889887646877
+    second: Fodo_Ciudad_30
+  - first:
+      213: 6675193700734597891
+    second: Fodo_Ciudad_31
+  - first:
+      213: -3418975112206958053
+    second: Fodo_Ciudad_32
+  - first:
+      213: 3168801492818381246
+    second: Fodo_Ciudad_33
+  - first:
+      213: 3799743383087938985
+    second: Fodo_Ciudad_34
+  - first:
+      213: -7496366953318766243
+    second: Fodo_Ciudad_35
+  - first:
+      213: -7207315307156741535
+    second: Fodo_Ciudad_36
+  - first:
+      213: 3526410369342572718
+    second: Fodo_Ciudad_37
+  - first:
+      213: 4477106133388865920
+    second: Fodo_Ciudad_38
+  - first:
+      213: -304246043503738747
+    second: Fodo_Ciudad_39
+  - first:
+      213: -2719576628301149530
+    second: Fodo_Ciudad_40
+  - first:
+      213: 2396700051881367640
+    second: Fodo_Ciudad_41
+  - first:
+      213: 4460415425313300962
+    second: Fodo_Ciudad_42
+  - first:
+      213: -7370359591893867643
+    second: Fodo_Ciudad_43
+  - first:
+      213: -7725933599275935582
+    second: Fodo_Ciudad_44
+  - first:
+      213: -673125379220514844
+    second: Fodo_Ciudad_45
+  - first:
+      213: -3490537495294638142
+    second: Fodo_Ciudad_46
+  - first:
+      213: -6428878353035151734
+    second: Fodo_Ciudad_47
+  - first:
+      213: -5325823465469281454
+    second: Fodo_Ciudad_48
+  - first:
+      213: -2366186005809253271
+    second: Fodo_Ciudad_49
+  - first:
+      213: 423043298660492491
+    second: Fodo_Ciudad_50
+  - first:
+      213: -263945815990835524
+    second: Fodo_Ciudad_51
+  - first:
+      213: -2481166688229473706
+    second: Fodo_Ciudad_52
+  - first:
+      213: -5029529137701006685
+    second: Fodo_Ciudad_53
+  - first:
+      213: 845840817613578081
+    second: Fodo_Ciudad_54
+  - first:
+      213: -1369363338734774513
+    second: Fodo_Ciudad_55
+  - first:
+      213: -2933159687243647484
+    second: Fodo_Ciudad_56
+  - first:
+      213: -8094073193723078251
+    second: Fodo_Ciudad_57
+  - first:
+      213: -6924631582976496605
+    second: Fodo_Ciudad_58
+  - first:
+      213: 8626810294655187644
+    second: Fodo_Ciudad_59
+  - first:
+      213: -2920346966778553803
+    second: Fodo_Ciudad_60
+  - first:
+      213: 7659049444155083717
+    second: Fodo_Ciudad_61
+  - first:
+      213: 3823850484099414675
+    second: Fodo_Ciudad_62
+  - first:
+      213: 238565254403040384
+    second: Fodo_Ciudad_63
+  - first:
+      213: 8586522606644898493
+    second: Fodo_Ciudad_64
+  - first:
+      213: -8980020143417438117
+    second: Fodo_Ciudad_65
+  - first:
+      213: -7156913985973378026
+    second: Fodo_Ciudad_66
+  - first:
+      213: 6720491226150689543
+    second: Fodo_Ciudad_67
+  - first:
+      213: -3007936335253695476
+    second: Fodo_Ciudad_68
+  - first:
+      213: 2911824812052561819
+    second: Fodo_Ciudad_69
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fodo_Ciudad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aa072b97cbd0c4a91d5c18ea6353f5
+      internalID: 6517931666825243063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b7e1dc3615b042a84c6f87d6c6a0d
+      internalID: -6983362837102655787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a5667484ab0f74da430d5597cda50f
+      internalID: 7285031805093247505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b3586264029f418554e5e890146c5
+      internalID: 1046059064503840992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6fc0c93e6efd4a895324dbf69d32c
+      internalID: -6810883413677552977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702b1a6357b9b19429ab2a1c71d3076a
+      internalID: 2235317649000036110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712faa3114eab7642937a59d1d7101bb
+      internalID: 7466997989667487512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8361339f6b004f44b9212871bfba180
+      internalID: 1691458400142428128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae358a7a14c044c9a347d257c5d94e
+      internalID: 2216327022597727958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 680
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e4815541179b4b82a5fa4fe590ed7
+      internalID: -1214811703357976280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8332030e1d3b746a904aa9dd8c5a9c
+      internalID: -8789017898943820284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db48f4979dd5ee46b62b70c9efb1399
+      internalID: -4974471759237156287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0eb02479512349a388a13ecc09cf5
+      internalID: 8563022151692094513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6e20b88b122e408fa3124227f1e13
+      internalID: -1405728542561929900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78dfda0239cf545af8425b6ae4dde6
+      internalID: 4801942716087624139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66612313a9552f640b2a372946f94ed4
+      internalID: 4377913362200614489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427fe5e2e5fe2f41b3564d842f63805
+      internalID: -3197301223670309461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744e532dce4ae4478908fae98aac483
+      internalID: -6690197811415667717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d20049b4847f7347aad0164d1269aba
+      internalID: 3422899877059341387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 580
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36a44cf04db34842922892a9aebcb67
+      internalID: -5678686171465246681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90b7f9f68f620742b329ce04dbef038
+      internalID: -1678045801280522728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd61a35b033865459b17e30b4c0dff8
+      internalID: -2550538070821552015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9aa77eebddaba4eb21f9ced743a0bb
+      internalID: 5341267564841437042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cb27f2a7d68a040a2a7302c0a38864
+      internalID: 7762146052781718006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0e7824c14d2c4a82d876f99e2c1c7
+      internalID: -5076776771168877246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_25
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27191bb8e97cca84392352caa05981d4
+      internalID: 8297803487441274039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac778de5fadc74caf1c79b76e2c1a1
+      internalID: 7285017228465244937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_27
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedeab5833fe5e4408a1d3b4cadd0e3e
+      internalID: -2920733974964023702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b102198642f5a44b7f3e6430c0d957
+      internalID: -801039706253259097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 480
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9619e7a75bf2a2546a7dd6830c2f8ef4
+      internalID: 6142412911594748051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c6f8295be23f4a99ed16e5b1bbe2e
+      internalID: 8566408889887646877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e6c49bae6ea67418c25aa08a884b5f
+      internalID: 6675193700734597891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc60e8a8067854291001f4a454458d
+      internalID: -3418975112206958053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb0e7e389716e409c1eefe520d708d
+      internalID: 3168801492818381246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd53d06573247342a033a5e3e91d792
+      internalID: 3799743383087938985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66403d6dde4e7b249b3d809431ce2454
+      internalID: -7496366953318766243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807f81828b31de44a93e438ce37b320
+      internalID: -7207315307156741535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_37
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad54f925c2ce6924c80ee5642907158e
+      internalID: 3526410369342572718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ff3a07aa31274094fb775ae5439b2
+      internalID: 4477106133388865920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 380
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45b813ccb69564f9e51e9c723737b6
+      internalID: -304246043503738747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e0ed9ad5868564d8beed30ca3ae09d
+      internalID: -2719576628301149530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed9d6141cd10e342884220cc1c137a3
+      internalID: 2396700051881367640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae0f2d96fd849499e9bf7a9d37c828
+      internalID: 4460415425313300962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35a015a5dd11345bb303da0cd0c3bf
+      internalID: -7370359591893867643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ad124ed8631543965f5fc8c83b7e2
+      internalID: -7725933599275935582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad69ca1962b7745b0c444f79ee21c8
+      internalID: -673125379220514844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748cef919cccbc943a08412142bd594f
+      internalID: -3490537495294638142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_47
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce232f726fefe794cb2c803a03732af4
+      internalID: -6428878353035151734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e313335cd6be7478404ebf8d2ea4bb
+      internalID: -5325823465469281454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 280
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05ef66176b6dc84d8bd31e8cfe39f13
+      internalID: -2366186005809253271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f09cbb1dfd7046b96d90741c81213
+      internalID: 423043298660492491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749e1c42a8e70046b094de6215a63bb
+      internalID: -263945815990835524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dfbe121c3628b4cb4c2051fdb01da3
+      internalID: -2481166688229473706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07318eb7dc371f43b47b10b175db79f
+      internalID: -5029529137701006685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1dfd0ef8c9e94c906a7471771c8e5
+      internalID: 845840817613578081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8045ba6c96a4b4459a6a6a66d4f9d51
+      internalID: -1369363338734774513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8e44e98ff98d4087f463717c05d9b
+      internalID: -2933159687243647484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f76d1029d590c48adafb288a9aa1c0
+      internalID: -8094073193723078251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e301eb3ebe96c934eb58bd0824c9bf32
+      internalID: -6924631582976496605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_59
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3396948a7caa60246a76c37fb3aa47e4
+      internalID: 8626810294655187644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3fb6e5983fcb94fa78c0fdae502043
+      internalID: -2920346966778553803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb68cb26ff2e847b2320b872b29fb0
+      internalID: 7659049444155083717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dc2e989d160c845babe3f2fec2c361
+      internalID: 3823850484099414675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa18f275e3b476d40bb7388fbbe1327e
+      internalID: 238565254403040384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e223bf75387cdd4c879c84bd66b176e
+      internalID: 8586522606644898493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b3424ea723f0419a8243892764afe
+      internalID: -8980020143417438117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed409cbee29966743a6fb2c3c18820e0
+      internalID: -7156913985973378026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243fb494f70b064884f13abd0e6a5e7
+      internalID: 6720491226150689543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6970d3dc151764184bc9683995782f
+      internalID: -3007936335253695476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fodo_Ciudad_69
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a9ded208e0f14f846dd36bbb8c4f0
+      internalID: 2911824812052561819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 80db3f010126a134eaa1ac523f5fe3bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
